@@ -1,0 +1,6 @@
+# Only the Part 2 website belongs in the public repository.
+*
+!.gitignore
+!_config.yml
+!index.md
+!README.md

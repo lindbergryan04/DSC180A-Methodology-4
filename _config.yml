@@ -1,0 +1,8 @@
+title: DSC 180A Methodology Assignment 4
+description: Quarter 2 project ideas
+theme: jekyll-theme-cayman
+url: "https://lindbergryan04.github.io"
+baseurl: "/DSC180A-Methodology-4"
+show_downloads: false
+exclude:
+  - README.md
